@@ -1,1 +1,3 @@
 This is the file I added directly form Github.com
+This is more stuff added from remote
+This is more stuff added from Github.com
